@@ -1,0 +1,10 @@
+{
+    "name": "interview-2022",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "start-2sum": "node ./2sumTest.js",
+      "start-ss": "node ./longestSubstringTest.js"
+    }
+  }
+  
