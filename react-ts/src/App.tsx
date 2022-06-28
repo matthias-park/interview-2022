@@ -3,7 +3,7 @@ import './App.scss'
 function App(): JSX.Element {
 	return (
 		<div>
-			<h2>My ToDo Application</h2>
+			<h2>My Application</h2>
 		</div>
 	)
 }
